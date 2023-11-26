@@ -1,0 +1,8 @@
+# --- NECESSARY REQUIREMENTS ---
+mutagen==1.45.1
+pandas==1.5.0
+scikit-learn==1.1.2
+
+
+# --- RECOMMENDED (BUT OPTIONAL) REQUIREMENTS ---
+ffmpeg-python==0.2.0
