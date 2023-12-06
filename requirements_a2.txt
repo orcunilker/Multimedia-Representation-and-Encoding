@@ -6,3 +6,6 @@ scikit-learn==1.1.2
 
 # --- RECOMMENDED (BUT OPTIONAL) REQUIREMENTS ---
 ffmpeg-python==0.2.0
+
+# my packages
+nbformat==5.9.2
